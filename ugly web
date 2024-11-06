@@ -1,0 +1,14 @@
+<html>
+<head>
+
+</head
+<body>
+      <h1>this is my first website and its ugly</h1>
+      <a href="https://mail.google.com/mail/u/0/#inbox">CLICK</a>
+      <style type="text/css">
+              body{
+                background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEUA/wA0XsCoAAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC');
+              }
+      </style>
+</body>
+</html>
